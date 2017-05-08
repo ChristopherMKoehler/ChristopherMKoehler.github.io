@@ -13,3 +13,7 @@
 #about {
   border-top: 2px solid black;
 }
+
+#desc {
+  align-self: center;
+}
